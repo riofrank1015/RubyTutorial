@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "beginner",
+=======
+  "name": "project",
+>>>>>>> route&controller
   "private": true,
   "dependencies": {}
 }
