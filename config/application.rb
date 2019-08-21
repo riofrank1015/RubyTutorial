@@ -7,8 +7,6 @@ require 'rails/all'
 Bundler.require(*Rails.groups)
 
 <<<<<<< HEAD
-module Beginner
-=======
 module Project
 >>>>>>> route&controller
   class Application < Rails::Application
